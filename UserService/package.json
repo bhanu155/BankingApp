@@ -1,0 +1,17 @@
+{
+  "name": "ssassignment",
+  "version": "1.0.0",
+  "description": "banking app - user service",
+  "main": "user-service.js",
+  "scripts": {
+    "start": "node user-service.js",
+    "test": "npm test"
+  },
+  "author": "talluri.tarak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.0.13",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
